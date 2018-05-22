@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D跑酷", "2D跑酷.csproj", "{EFEEB59A-7E6E-62F6-1EE1-F0CFE2E0C0E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFEEB59A-7E6E-62F6-1EE1-F0CFE2E0C0E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFEEB59A-7E6E-62F6-1EE1-F0CFE2E0C0E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFEEB59A-7E6E-62F6-1EE1-F0CFE2E0C0E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFEEB59A-7E6E-62F6-1EE1-F0CFE2E0C0E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
